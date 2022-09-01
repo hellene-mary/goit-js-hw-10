@@ -1,3 +1,5 @@
+//TODO Створи фронтенд частину програми пошуку даних про країну за її частковою або повною назвою.
+
 import './css/styles.css';
 import debounce from 'lodash.debounce';
 import fetchCountries from './js/fetchCountries';
