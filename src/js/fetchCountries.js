@@ -19,6 +19,6 @@ export default function fetchCountries(name) {
       tracksResults(data);
     })
     .catch(error => {
-      console.log('~ error', error);
+      // console.log('~ error', error);
     });
 }
